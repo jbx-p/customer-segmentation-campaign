@@ -1,0 +1,5 @@
+segment_name,n_customers,avg_order_value,channel,offer_type,strategy,segment_multiplier,response_rate,campaign_cost_per_customer,expected_responders,expected_revenue,total_cost,net_revenue,roi
+Casual Low-Spend Majority,46437,54.79420580571527,Email,Free shipping threshold / small % off,Low-cost broad reach,0.8,0.00128,0.03,59.43936000000001,3256.9325248000005,1393.11,1863.8225248000006,1.3378861143771854
+Dissatisfied & Disengaged,13747,122.1880999490798,Direct email,Service recovery credit,"Retention/recovery, not promotional",0.4,0.00064,0.05,8.79808,1075.0206784000002,687.35,387.67067840000016,0.5640076793482216
+High-Value Financed One-Timers,30950,267.64235298869147,Email + retargeting,Free shipping / extended installments,Cross-sell into new categories,1.1,0.0017600000000000003,0.2,54.47200000000001,14579.014252000004,6190.0,8389.014252000004,1.3552527063004853
+Loyal High-Value Repeaters,2224,148.2765790760249,Personalized email,Loyalty tier / early access,"Recognition, deepen relationship",2.5,0.004,0.15,8.896,1319.0684474603174,333.59999999999997,985.4684474603175,2.9540421086939976
